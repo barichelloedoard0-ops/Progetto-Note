@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NotesData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Users>
+    <User>
+      <Username>Edoardo</Username>
+      <Password>123</Password>
+    </User>
+    <User>
+      <Username>Giovanni</Username>
+      <Password>abc</Password>
+    </User>
+    <User>
+      <Username>Luca</Username>
+      <Password>pwd</Password>
+    </User>
+  </Users>
+  <Notes>
+    <Note>
+      <Id>4</Id>
+      <User>Edoardo</User>
+      <Title>STAGE</Title>
+      <Content>Ricordarsi la Chiavetta USB</Content>
+      <Importance>Alta</Importance>
+      <CreatedAt>2026-06-11T10:38:23.7371973+02:00</CreatedAt>
+      <ExpirationDate xsi:nil="true" />
+    </Note>
+    <Note>
+      <Id>6</Id>
+      <User>Edoardo</User>
+      <Title>CARTE STAGE</Title>
+      <Content>Dare carte stage alla rossi</Content>
+      <Importance>Media</Importance>
+      <CreatedAt>2026-06-11T10:47:44.3811232+02:00</CreatedAt>
+      <ExpirationDate xsi:nil="true" />
+    </Note>
+    <Note>
+      <Id>7</Id>
+      <User>Edoardo</User>
+      <Title>Diario di bordo</Title>
+      <Content>Diario di Bordo per lo stage</Content>
+      <Importance>Media</Importance>
+      <CreatedAt>2026-06-11T14:08:39.8087486+02:00</CreatedAt>
+      <ExpirationDate xsi:nil="true" />
+    </Note>
+    <Note>
+      <Id>8</Id>
+      <User>Edoardo</User>
+      <Title>Breso mi deve dare i soldi</Title>
+      <Content>15 euro di credito a scadenza 1/07/2026,al termine dei quali il credito diverrà di 20 euro.</Content>
+      <Importance>Alta</Importance>
+      <CreatedAt>2026-06-11T14:10:53.5218706+02:00</CreatedAt>
+      <ExpirationDate xsi:nil="true" />
+    </Note>
+    <Note>
+      <Id>9</Id>
+      <User>Edoardo</User>
+      <Title>Inizio periodo di Animatore</Title>
+      <Content>dal 25/06 al 14/07</Content>
+      <Importance>Alta</Importance>
+      <CreatedAt>2026-06-11T14:13:13.0279623+02:00</CreatedAt>
+      <ExpirationDate xsi:nil="true" />
+    </Note>
+    <Note>
+      <Id>10</Id>
+      <User>Edoardo</User>
+      <Title>Brenton</Title>
+      <Content>Metro di Birra al Brenton,,,,,</Content>
+      <Importance>Bassa</Importance>
+      <CreatedAt>2026-06-11T14:13:51.9946901+02:00</CreatedAt>
+      <ExpirationDate xsi:nil="true" />
+    </Note>
+    <Note>
+      <Id>11</Id>
+      <User>Edoardo</User>
+      <Title>Viaggio ad assisi</Title>
+      <Content>viaggio ad assisi il 27/07</Content>
+      <Importance>Alta</Importance>
+      <CreatedAt>2026-06-11T15:39:12.2197946+02:00</CreatedAt>
+      <ExpirationDate xsi:nil="true" />
+    </Note>
+    <Note>
+      <Id>12</Id>
+      <User>Edoardo</User>
+      <Title>Scadenza yogurt</Title>
+      <Content>scade lo yogurt mangialo!</Content>
+      <Importance>Media</Importance>
+      <CreatedAt>2026-06-11T16:38:19.9261167+02:00</CreatedAt>
+      <ExpirationDate>2026-06-20T00:00:00</ExpirationDate>
+    </Note>
+  </Notes>
+</NotesData>
